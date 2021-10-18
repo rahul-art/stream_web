@@ -1,3 +1,3 @@
 streamlit-webrtc
 streamlit
-opencv-python
+opencv-python==4.5.2.54
