@@ -1,1 +1,3 @@
-opencv
+name: stats
+dependencies:
+  - opencv
